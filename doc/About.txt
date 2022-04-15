@@ -1,0 +1,3 @@
+This is a "Payroll Management System" which helps you manage all the data related to your employees at one place. You can add all your employee details to our database ,this system will help you maintain attendance records ,keep record of payment to each employee ,generate payment and attendance report.all this secured with a user login so that only the authorised people have access and can manipulate this data, it has a very easy to understand interface and can be used by anyone without any training.
+
+Hope you have a nice time using our app
